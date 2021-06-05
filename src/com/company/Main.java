@@ -15,6 +15,11 @@ public class Main {
             System.out.println("вы сохранили положительное число");
         }else {
             System.out.println("вы сохранили нуль");
+
+
+
+
+
         }
     }
 
